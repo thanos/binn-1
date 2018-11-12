@@ -115,6 +115,7 @@ You can find more usage examples [here](usage.md) and in the [examples folder](e
  * Javascript: [liteserver/binn.js](https://github.com/liteserver/binn.js)
  * PHP: [ET-NiK/binn-php](https://github.com/ET-NiK/binn-php)
  * Python: [meeron/pybinn](https://github.com/meeron/pybinn)
+ * Elixir: [thanos/binn](https://github.com/thanos/binn)
 
 Feel free to make a wrapper for your preferred language. Then inform us so we can list it here.
 
